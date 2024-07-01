@@ -8,7 +8,7 @@
 
 ## About Me
 
-🌱 I learned programming with a Bootcamp hosted jointly by HyperionDev and Imperial College London. My Portfolio
+🌱 I learned programming with a Bootcamp hosted jointly by HyperionDev and Imperial College London. [My Portfolio](https://www.hyperiondev.com/portfolio/NM23080009040/)
 
 💬 Ask me about programming 💻 and science 🧪.
 
