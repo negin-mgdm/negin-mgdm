@@ -33,7 +33,17 @@
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 </p>
 
+## Streak Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=negin-mgdm&theme=dark&hide_border=true" alt="Current Streak" />
+</p>
+
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negin-mgdm&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
+</p>
 
 <!---
 negin-mgdm/negin-mgdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
