@@ -36,13 +36,13 @@
 ## Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=negin-mgdm&theme=dark&hide_border=true" alt="Current Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=negin-mgdm&theme=dark&hide_border=false">
 </p>
 
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negin-mgdm&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negin-mgdm&theme=radical&show_icons=true&hide_border=false&layout=compact" width="500" height="250"">
 </p>
 
 <!---
