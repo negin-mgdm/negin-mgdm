@@ -1,4 +1,4 @@
-# Hi there! 👋 My name is Negin, and I am a software engineer 😊
+# Hi there! 👋 My name is Negin, and I am a Software Engineer 😊
 
 <p align="center">
   <a href="mailto:negin.mgdm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
