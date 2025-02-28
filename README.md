@@ -3,7 +3,7 @@
 <p align="center">
   <a href="mailto:negin.mgdm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/negin-moghadam-a3905319b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/user7583uk/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Negin_Mgdm/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 </p>
 
 ## About Me
