@@ -1,4 +1,4 @@
-# Hi there! 👋 My name is Negin, and I am a Software Engineer 😊
+# Hi there! 👋 My name is Negin, and I am a Data Engineer 😊
 
 <p align="center">
   <a href="mailto:negin.mgdm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -8,13 +8,13 @@
 
 ## About Me
 
-🌱 I learned programming with a Bootcamp hosted jointly by HyperionDev and Imperial College London. [My Portfolio](https://www.hyperiondev.com/portfolio/NM23080009040/)
+🌱 I started my programming journey through a Bootcamp hosted jointly by HyperionDev and Imperial College London. Now, I'm expanding my expertise in data engineering through an intensive training programme at Digital Futures. [My Portfolio](https://www.hyperiondev.com/portfolio/NM23080009040/)
 
-💬 Ask me about programming 💻 and science 🧪.
+💬 Ask me about Programming 💻, Data Engineering 📊, and Science 🧪.
 
 📫 How to reach me: negin.mgdm@gmail.com
 
-⚡ Fun fact: As a holder of a Chemistry degree, I embarked on a unique trajectory and delved into the world of programming. Now, I bring the precision of a chemist to the art of coding, working as a passionate software engineer. My journey is a blend of atoms and algorithms! 💻🔬
+⚡ Fun fact: With a background in Chemistry, I took a unique path into the world of Technology. Now, I bring the precision of a chemist to the art of coding, working as a passionate data engineer. My journey is a blend of atoms and algorithms! 💻🔬
 
 ## Technologies and Tools
 
